@@ -1,6 +1,6 @@
 # Sparkle Generator
 
-A simple React project that lets you generate sparkles on the screen with a click. Designed for fun and experimentation, using Tailwind CSS for styling and deployed with Vercel.
+A simple silly for fun React project that lets you generate sparkles on the screen with a click. Designed for fun and experimentation, using Tailwind CSS for styling and deployed with Vercel.
 
 ---
 
@@ -16,8 +16,7 @@ A simple React project that lets you generate sparkles on the screen with a clic
 
 ## Live Demo
 
-[View the Live App](sparkles-c6x2.vercel.app
-)  
+[View the Live App](https://sparkles-c6x2.vercel.app/)
 
 ---
 
