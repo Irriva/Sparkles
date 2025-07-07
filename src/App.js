@@ -26,7 +26,7 @@ export default function App() {
         onClick={addSparkle}
         className="absolute transform -translate-x-1/2 px-6 py-2 bg-pink-500 text-white rounded-full shadow-lg hover:bg-pink-600 transition"
       >
-        mwah
+        sparkle
       </button>
       
       {sparkles.map((s) => (
@@ -34,7 +34,7 @@ export default function App() {
           key={s.id}
           className="absolute text-2xl animate-fade"
           style={{ top: s.y, left: s.x }}
-        >💖
+        >✨
         </span>
       ))}
 
